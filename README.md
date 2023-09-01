@@ -14,4 +14,4 @@ Site de livros de tecnologia feito com o intuito de praticar o aprendizado adqui
 - ``SwiperJS``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui]().
+Você pode acessar os arquivos do projeto clicando [aqui](https://projeto-techbooks.vercel.app/).
