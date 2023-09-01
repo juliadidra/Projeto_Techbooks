@@ -50,6 +50,11 @@
         margin: 0.5em 0.5em;
     }
 
+    .topicos_itens:hover{
+        transition: 100ms linear;
+        transform: scale(1.1);
+    }
+
 }
 
 @media screen and (min-width: 1728px){

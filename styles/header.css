@@ -159,6 +159,10 @@
         -webkit-text-fill-color: var(--branco);
         
     }
+
+    .opcoes_link:hover{
+        color: var(--laranja);
+    }
 }
 
 @media screen and (min-width: 1728px){

@@ -80,6 +80,12 @@
         margin: 2em auto;
     }
 
+    .botao_ancora:hover{
+        background: var(--azul-escuro);
+        border-radius: 20px;
+        
+    }
+
 }
 
 @media screen and (min-width: 1728px){

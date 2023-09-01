@@ -60,6 +60,10 @@
         font-size: 24px;
     }
 
+    .input_contato:hover{
+        border: 1px solid var(--laranja);
+    }
+
     
 }
 
