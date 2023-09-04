@@ -12,6 +12,7 @@ Página de livros de tecnologia feita com o intuito de praticar o aprendizado ad
 - ``HTML``
 - ``CSS``
 - ``SwiperJS``
+-  ``Flex-Box``
 
 ## 📁 Acesso ao projeto
 Você pode acessar o projeto clicando [aqui](https://projeto-techbooks.vercel.app/).
